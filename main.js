@@ -2,7 +2,7 @@
 
 var app = new Vue (
     {
-        el : #root,
+        el : '#root',
         data : {
             addedText :' Vue Hello!',
         },
