@@ -3,8 +3,9 @@
 var app = new Vue (
     {
         el : #root,
-        data :{         },
-
+        data : {
+            addedText :' Vue Hello!',
+        },
 
     }
 );
